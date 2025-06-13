@@ -4,11 +4,11 @@ cycler==0.12.1
     # via matplotlib
 fonttools==4.55.8
     # via matplotlib
-matplotlib==3.10.0
+matplotlib==3.10.1
     # via
     #   -r requirements.in
     #   seaborn
-numpy==2.2.2
+numpy==2.2.4
     # via
     #   -r requirements.in
     #   contourpy
@@ -29,5 +29,5 @@ python-dateutil==2.9.0.post0
     #   pandas
 pytz==2025.1
     # via pandas
-seaborn==0.13.2
+seaborn==0.13.3
     # via -r requirements.in
